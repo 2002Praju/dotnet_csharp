@@ -1,0 +1,5 @@
+C:\Code\csday3\obj\Debug\net7.0\csday3.csproj.AssemblyReference.cache
+C:\Code\csday3\obj\Debug\net7.0\csday3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\csday3\obj\Debug\net7.0\csday3.AssemblyInfoInputs.cache
+C:\Code\csday3\obj\Debug\net7.0\csday3.AssemblyInfo.cs
+C:\Code\csday3\obj\Debug\net7.0\csday3.csproj.CoreCompileInputs.cache
